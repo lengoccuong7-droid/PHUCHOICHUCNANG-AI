@@ -1,0 +1,200 @@
+{
+  "Cột sống cổ": [
+    [
+      "Spurling Test",
+      "Kiểm tra chèn ép rễ thần kinh cổ",
+      "Nghiêng đầu sang bên đau, ấn nhẹ đỉnh đầu."
+    ],
+    [
+      "Distraction Test",
+      "Đánh giá giảm chèn ép rễ khi kéo giãn",
+      "Nâng cằm và chẩm kéo nhẹ lên trên."
+    ],
+    [
+      "Lhermitte Sign",
+      "Đánh giá tổn thương tủy cổ",
+      "Gập cổ tối đa xem có cảm giác điện giật dọc sống lưng không."
+    ],
+    [
+      "Bakody Sign",
+      "Đánh giá giảm chèn ép rễ khi đặt tay lên đầu",
+      "Đặt tay lên đỉnh đầu xem triệu chứng giảm không."
+    ]
+  ],
+  "Cột sống thắt lưng": [
+    [
+      "Lasègue Test (SLR)",
+      "Đánh giá kích thích rễ thần kinh tọa",
+      "Nâng thẳng chân bệnh nhân lên khi nằm ngửa (<70 độ)."
+    ],
+    [
+      "Patrick / FABER Test",
+      "Phân biệt tổn thương khớp háng hay cùng chậu",
+      "Đặt cổ chân lên gối bên kia, ấn gối xuống giường."
+    ],
+    [
+      "Bragard Test",
+      "Xác định rõ tổn thương gốc rễ thần kinh",
+      "Nâng chân tới góc đau, hạ nhẹ 5 độ rồi gập lưng cổ chân."
+    ],
+    [
+      "Schober Test",
+      "Đo độ giãn cột sống thắt lưng",
+      "Đo khoảng cách 10cm khi cúi tối đa."
+    ]
+  ],
+  "Khớp vai": [
+    [
+      "Neer Test",
+      "Đánh giá hội chứng chạm mỏm cùng vai",
+      "Cố định xương bả vai, đưa tay xoay trong và gập tối đa."
+    ],
+    [
+      "Hawkins-Kennedy",
+      "Đánh giá chèn ép gân cơ trên gai",
+      "Gập vai và khuỷu 90 độ, xoay trong cẳng tay đột ngột."
+    ],
+    [
+      "Jobe Test (Empty Can)",
+      "Đánh giá rách/viêm gân cơ trên gai",
+      "Dang vai 90 độ, ngón cái hướng xuống, ấn tay chống lực."
+    ],
+    [
+      "Speed Test",
+      "Đánh giá gân cơ nhị đầu dài",
+      "Duỗi khuỷu, ngửa cẳng tay, nâng tay kháng trở."
+    ]
+  ],
+  "Khuỷu tay": [
+    [
+      "Cozen Test",
+      "Đánh giá viêm lồi cầu ngoài (Tennis Elbow)",
+      "Duỗi cổ tay có kháng trở từ bác sĩ."
+    ],
+    [
+      "Mill Test",
+      "Đánh giá co kéo gân duỗi tại lồi cầu ngoài",
+      "Sấp cẳng tay, gập cổ tay và duỗi thẳng khuỷu tay."
+    ],
+    [
+      "Tinel Sign ống khuỷu",
+      "Kiểm tra chèn ép dây thần kinh trụ",
+      "Gõ nhẹ vào rãnh thần kinh trụ ở khuỷu tay."
+    ],
+    [
+      "Golfer's Elbow Test",
+      "Đánh giá viêm lồi cầu trong",
+      "Gấp cổ tay có kháng trở ở tư thế ngửa."
+    ]
+  ],
+  "Cổ tay – bàn tay": [
+    [
+      "Phalen Test",
+      "Đánh giá hội chứng ống cổ tay",
+      "Gập cổ tay tối đa 90 độ trong 60 giây."
+    ],
+    [
+      "Tinel Sign cổ tay",
+      "Kiểm tra chèn ép dây thần kinh giữa",
+      "Gõ nhẹ vào dây chằng ngang cổ tay mặt trước."
+    ],
+    [
+      "Finkelstein Test",
+      "Đánh giá viêm gân De Quervain",
+      "Gấp ngón cái vào lòng bàn tay, nắm lại rồi nghiêng trụ."
+    ],
+    [
+      "Allen Test",
+      "Đánh giá tuần hoàn động mạch bàn tay",
+      "Đè ép động mạch quay và trụ."
+    ]
+  ],
+  "Khớp háng": [
+    [
+      "FADIR Test",
+      "Đánh giá kẹp háng (FAI)",
+      "Gập háng 90 độ, khép và xoay trong."
+    ],
+    [
+      "Thomas Test",
+      "Đánh giá co rút cơ thắt lưng chậu",
+      "Co tối đa một bên gối áp sát ngực xem chân kia có hổng không."
+    ],
+    [
+      "Trendelenburg Test",
+      "Đánh giá yếu cơ mông nhỡ",
+      "Đứng một chân quan sát khung chậu đối diện."
+    ],
+    [
+      "FABER / Patrick Test",
+      "Đánh giá khớp háng và cùng chậu",
+      "Đặt chân hình số 4 và ấn xuống."
+    ]
+  ],
+  "Khớp gối": [
+    [
+      "Lachman Test",
+      "Đánh giá đứt dây chằng chéo trước (ACL)",
+      "Gập gối 20-30 độ, kéo mâm chày ra trước."
+    ],
+    [
+      "McMurray Test",
+      "Đánh giá tổn thương rách sụn chêm",
+      "Gập gối tối đa, xoay cẳng chân kết hợp duỗi gối."
+    ],
+    [
+      "Anterior Drawer Test",
+      "Kiểm tra độ vững dây chằng chéo trước",
+      "Gập gối 90 độ, kéo mạnh mâm chày ra trước."
+    ],
+    [
+      "Appley Compression Test",
+      "Phân biệt tổn thương sụn chêm và dây chằng",
+      "Nằm sấp, ấn lực dọc trục và xoay cẳng chân."
+    ]
+  ],
+  "Cổ chân – bàn chân": [
+    [
+      "Thompson Test",
+      "Kiểm tra đứt gân gót (Achilles)",
+      "Bóp cơ bắp chân xem bàn chân có gấp mặt lòng không."
+    ],
+    [
+      "Anterior Drawer Cổ chân",
+      "Đánh giá đứt dây chằng sên-mác trước",
+      "Kéo gót chân ra trước ở tư thế gấp nhẹ mặt lòng."
+    ],
+    [
+      "Talar Tilt Test",
+      "Đánh giá dây chằng mác-gót",
+      "Lật trong bàn chân ở tư thế trung tính."
+    ],
+    [
+      "Squeeze Test",
+      "Đánh giá tổn thương màng gian cốt / khớp chày mác",
+      "Bóp ép xương chày và xương mác ở cẳng chân."
+    ]
+  ],
+  "Thần kinh & Khác": [
+    [
+      "Babinski Sign",
+      "Đánh giá tổn thương bó tháp",
+      "Vạch bờ ngoài lòng bàn chân từ gót lên ngón út."
+    ],
+    [
+      "Modified Ashworth",
+      "Đánh giá độ co cứng trương lực cơ",
+      "Gập duỗi thụ động chi thể nhanh."
+    ],
+    [
+      "Fugl-Meyer Assessment",
+      "Đánh giá phục hồi vận động đột quỵ",
+      "Lượng giá chuỗi vận động chi thể."
+    ],
+    [
+      "Romberg Test",
+      "Đánh giá thăng bằng và cảm giác sâu",
+      "Đứng chụm chân, nhắm mắt."
+    ]
+  ]
+}
