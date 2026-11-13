@@ -1,0 +1,22 @@
+{
+  "Đột quỵ & Thần kinh": {
+    "icon": "🧠",
+    "color": "linear-gradient(135deg, #48dbfb, #0abde3)",
+    "content": "##### 🧠 Phác đồ Vận động Trị liệu Đột quỵ (Liệt nửa người)\n    * **Nguyên tắc cốt lõi:** Bắt đầu càng sớm càng tốt khi tình trạng huyết động ổn định, phân loại mức độ theo thang điểm Brunnstrom.\n    * **1. Kiểm soát trương lực cơ:** Kỹ thuật Bobath ức chế co cứng, tạo thuận nhóm cơ duỗi.\n    * **2. Thăng bằng & Chuyển tư thế:** Luyện tập kiểm soát thân mình (từ nằm -> ngồi -> đứng) và đứng dồn trọng lượng đều hai chân trước gương."
+  },
+  "Cột sống & Cơ xương": {
+    "icon": "🦴",
+    "color": "linear-gradient(135deg, #ff6b6b, #ee5253)",
+    "content": "##### 🦴 Phác đồ Cột sống Thắt lưng & Cổ\n    * **Nguyên tắc:** Giảm áp lực đĩa đệm, phục hồi đường cong sinh lý cột sống, tăng cường sức mạnh nhóm cơ lõi (Core stability).\n    * **1. Giai đoạn cấp:** Nghỉ ngơi tương đối, tư thế giảm đau, vật lý trị liệu giảm viêm.\n    * **2. Giai đoạn phục hồi:** Kéo giãn nhóm cơ dựng sống, tập mạnh cơ bụng sâu và nhóm cơ duỗi lưng."
+  },
+  "Khớp ngoại biên": {
+    "icon": "🦾",
+    "color": "linear-gradient(135deg, #10ac84, #1dd1a1)",
+    "content": "##### 🦾 Phục hồi Chức năng Khớp Ngoại biên (Vai, Gối, Khuỷu)\n    * **Nguyên tắc:** Lấy lại biên độ vận động (ROM) không đau, tái thiết lập độ vững của hệ thống dây chằng và bao khớp.\n    * **1. Giai đoạn đầu:** Vận động thụ động, chống teo cơ tĩnh.\n    * **2. Giai đoạn sau:** Tập kháng lực tiến triển với dây Theraband và bài tập thăng bằng bản thể."
+  },
+  "PHCN Nhi khoa": {
+    "icon": "👶",
+    "color": "linear-gradient(135deg, #f39c12, #e67e22)",
+    "content": "##### 👶 Phục hồi Chức năng Nhi khoa (Bại não & Trẻ tự kỷ)\n    * **Nguyên tắc:** Can thiệp sớm dựa trên mốc phát triển vận động thô và vận động tinh, điều hòa cảm giác.\n    * **1. Điều hòa cảm giác:** Sử dụng bóng trị liệu, võng đung đưa, kỹ thuật ép khớp sâu.\n    * **2. Vận động trị liệu:** Phòng ngừa co rút gân gót, tập kiểm soát đầu cổ, lẫy, bò và đi đứng."
+  }
+}
