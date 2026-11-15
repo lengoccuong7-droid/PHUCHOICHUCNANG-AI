@@ -1,0 +1,524 @@
+{
+  "1. Tai biến mạch máu não (Liệt nửa người)": [
+    {
+      "purpose": "Duy trì độ mềm dẻo khớp, hạn chế co rút và đau do bất động; hỗ trợ chuẩn bị cho vận động chủ động.",
+      "position": "Người bệnh nằm hoặc ngồi được nâng đỡ; KTV đỡ chắc đoạn gần và đoạn xa khớp.",
+      "technique": "Di chuyển từng khớp chậm trong tầm không đau; đi theo trục giải phẫu; không kéo giật hoặc ép cuối tầm. Quan sát nét mặt và phản ứng co cứng.",
+      "dose": "Chọn 5–10 lần mỗi khớp, 1–2 lượt tùy dung nạp; điều chỉnh theo đáp ứng.",
+      "safety": "Không kéo khi đau tăng, khớp sưng/nóng hoặc nghi gãy/trật. Tránh kéo mạnh vai bên liệt; cần nâng đỡ xương bả vai.",
+      "common_errors": "Dùng lực kéo tay bên liệt; làm nhanh hoặc ép cuối tầm; để thân/người bệnh mất trục; không bảo vệ nguy cơ ngã."
+    },
+    {
+      "purpose": "Giảm ảnh hưởng của mẫu vận động bất thường và tạo điều kiện cho tư thế, vận động chức năng có kiểm soát.",
+      "position": "Tư thế nằm/ngồi được căn chỉnh, thân mình và chi được nâng đỡ.",
+      "technique": "Dùng hướng dẫn vận động, kiểm soát thân mình và đặt tư thế phù hợp; tạo cơ hội cho người bệnh chủ động tham gia. Không cố bẻ thẳng chi co cứng.",
+      "dose": "Các lượt ngắn 5–10 phút, lặp lại trong buổi theo khả năng; đánh giá trương lực và chức năng trước/sau.",
+      "safety": "Bobath là cách tiếp cận phục hồi chức năng, không phải một động tác đơn lẻ. Cần KTV được đào tạo cá thể hóa; dừng nếu đau hoặc mệt tăng.",
+      "common_errors": "Dùng lực kéo tay bên liệt; làm nhanh hoặc ép cuối tầm; để thân/người bệnh mất trục; không bảo vệ nguy cơ ngã."
+    },
+    {
+      "purpose": "Tăng khả năng tự thay đổi tư thế, giảm phụ thuộc người chăm sóc và hỗ trợ phòng biến chứng do nằm lâu.",
+      "position": "Giường phẳng hoặc đầu giường nâng nhẹ; khóa bánh xe, chuẩn bị điểm tựa và người hỗ trợ.",
+      "technique": "Hướng dẫn quay đầu–vai–thân–chậu theo chuỗi; hỗ trợ bên liệt, tránh kéo tay liệt. Khi ngồi dậy, đưa chân ra mép giường và nâng thân có kiểm soát.",
+      "dose": "Tập 3–5 lượt mỗi hướng, nghỉ giữa lượt; tăng dần mức tự thực hiện.",
+      "safety": "Kiểm tra huyết áp tư thế, chóng mặt, đau vai và nguy cơ té ngã. Lần đầu cần hỗ trợ trực tiếp.",
+      "common_errors": "Dùng lực kéo tay bên liệt; làm nhanh hoặc ép cuối tầm; để thân/người bệnh mất trục; không bảo vệ nguy cơ ngã."
+    },
+    {
+      "purpose": "Cải thiện kiểm soát thân mình, phản ứng giữ thăng bằng và khả năng ngồi an toàn.",
+      "position": "Ngồi trên giường/ghế chắc, hai bàn chân có điểm tựa; KTV đứng bên có nguy cơ ngã.",
+      "technique": "Bắt đầu giữ tư thế giữa; sau đó với tay trong tầm gần, chuyển trọng lượng nhẹ sang hai bên và trở về giữa. Tăng thử thách từng bước.",
+      "dose": "Giữ 10–30 giây mỗi lượt, 5–8 lượt; chia thành nhiều đợt ngắn.",
+      "safety": "Không để người bệnh ngồi một mình nếu chưa an toàn. Dừng khi chóng mặt, mệt nhiều hoặc mất kiểm soát thân.",
+      "common_errors": "Dùng lực kéo tay bên liệt; làm nhanh hoặc ép cuối tầm; để thân/người bệnh mất trục; không bảo vệ nguy cơ ngã."
+    },
+    {
+      "purpose": "Tập nhận biết và phân phối trọng lượng, chuẩn bị cho đứng và đi.",
+      "position": "Đứng giữa hai thanh song song hoặc khung vững, có KTV bảo vệ; dùng gương nếu hữu ích.",
+      "technique": "Căn chỉnh thân và hai chân; chuyển trọng lượng nhỏ sang trái/phải rồi trở về giữa; chú ý không khóa gối quá mức hoặc nghiêng thân bù trừ.",
+      "dose": "5–10 lần chuyển trọng lượng mỗi bên, 1–3 lượt tùy khả năng.",
+      "safety": "Chỉ tập khi đã được đánh giá khả năng đứng và mức chịu lực. Dùng đai hỗ trợ nếu cần; không tập khi huyết động không ổn định.",
+      "common_errors": "Dùng lực kéo tay bên liệt; làm nhanh hoặc ép cuối tầm; để thân/người bệnh mất trục; không bảo vệ nguy cơ ngã."
+    },
+    {
+      "purpose": "Luyện mẫu bước, kiểm soát bàn chân và tăng an toàn khi di chuyển.",
+      "position": "Mang AFO đúng chỉ định, giày phù hợp; dùng thanh song song/khung tập đi và có người giám sát.",
+      "technique": "Đặt khung đúng vị trí; chuyển trọng lượng có kiểm soát; bước theo hướng dẫn từng chân, quan sát nhấc mũi chân và duỗi gối.",
+      "dose": "Bắt đầu quãng ngắn 3–5 m hoặc vài lượt trong thanh song song; tăng dần theo chất lượng bước.",
+      "safety": "AFO phải được đánh giá độ vừa và vùng tỳ. Không tự chọn nẹp; dừng nếu đau, chóng mặt, hụt chân hoặc mệt bất thường.",
+      "common_errors": "Dùng lực kéo tay bên liệt; làm nhanh hoặc ép cuối tầm; để thân/người bệnh mất trục; không bảo vệ nguy cơ ngã."
+    },
+    {
+      "purpose": "Duy trì sức mạnh nhóm cơ còn hoạt động và hỗ trợ chức năng vận động tổng thể.",
+      "position": "Ngồi/nằm vững, chi được đặt đúng trục; chọn mức kháng lực phù hợp.",
+      "technique": "Co cơ có kiểm soát qua tầm vận động sẵn có; ưu tiên chất lượng và tránh nín thở. Bên liệt chỉ tập chủ động khi có thể thực hiện đúng.",
+      "dose": "1–2 hiệp, 8–12 lần mỗi động tác nếu dung nạp; nghỉ giữa hiệp.",
+      "safety": "Không dùng kháng lực mạnh khi kiểm soát vận động kém, đau vai hoặc tăng trương lực rõ. Điều chỉnh theo mệt và bệnh tim mạch.",
+      "common_errors": "Dùng lực kéo tay bên liệt; làm nhanh hoặc ép cuối tầm; để thân/người bệnh mất trục; không bảo vệ nguy cơ ngã."
+    }
+  ],
+  "2. Rối loạn nuốt (Dysphagia) sau tai biến": [
+    {
+      "purpose": "Cải thiện khả năng khép môi và kiểm soát thức ăn/nước bọt trong khoang miệng.",
+      "position": "Ngồi thẳng, đầu và thân được nâng đỡ; tập trước gương nếu cần.",
+      "technique": "Mím môi nhẹ rồi thả; cười mở môi; phồng má nếu kiểm soát được; phát âm U–I chậm, rõ. Không gắng sức quá mức.",
+      "dose": "Mỗi động tác 5 lần, 1–2 lượt ngắn; theo đánh giá của chuyên viên âm ngữ trị liệu.",
+      "safety": "Đây là bài vận động miệng, không thay thế đánh giá nuốt. Dừng nếu mệt, đau hoặc khó thở.",
+      "common_errors": "Tự ý thực hiện thủ thuật khi chưa đánh giá nuốt; tập với thức ăn/nước không đúng chỉ định; tiếp tục khi ho sặc, giọng ướt hoặc khó thở."
+    },
+    {
+      "purpose": "Tăng độ linh hoạt và kiểm soát vận động lưỡi phục vụ gom, di chuyển thức ăn trong miệng.",
+      "position": "Ngồi thẳng, đầu ở tư thế trung tính; có thể dùng gương.",
+      "technique": "Đưa lưỡi ra trước, sang trái/phải và chạm vòm miệng trong tầm thoải mái; thực hiện chậm, không dùng vật sắc hoặc ép mạnh.",
+      "dose": "Mỗi hướng 5 lần; nghỉ khi mỏi; số lượt do chuyên viên điều chỉnh.",
+      "safety": "Không tập khi có đau, loét hoặc hạn chế vận động miệng đáng kể. Cần đánh giá chuyên môn nếu có nguy cơ sặc.",
+      "common_errors": "Tự ý thực hiện thủ thuật khi chưa đánh giá nuốt; tập với thức ăn/nước không đúng chỉ định; tiếp tục khi ho sặc, giọng ướt hoặc khó thở."
+    },
+    {
+      "purpose": "Có thể hỗ trợ kích thích cảm giác vùng miệng-hầu trong một số phác đồ chuyên biệt.",
+      "position": "Chỉ thực hiện tại cơ sở phù hợp, bởi chuyên viên được đào tạo và sau đánh giá nuốt.",
+      "technique": "Kích thích lạnh/nhiệt phải theo quy trình chuyên môn đã được chỉ định; không tự dùng đá, que hoặc dụng cụ tại nhà.",
+      "dose": "Không có liều chung; thực hiện theo phác đồ cá thể hóa.",
+      "safety": "Không tự thực hiện vì có nguy cơ kích thích không phù hợp, tổn thương niêm mạc hoặc sặc. Không thay thế đánh giá nuốt bằng công cụ.",
+      "common_errors": "Tự ý thực hiện thủ thuật khi chưa đánh giá nuốt; tập với thức ăn/nước không đúng chỉ định; tiếp tục khi ho sặc, giọng ướt hoặc khó thở."
+    },
+    {
+      "purpose": "Masako được dùng trong một số trường hợp nhằm tập cơ thành họng; không phải phù hợp với mọi kiểu rối loạn nuốt.",
+      "position": "Chỉ tập khô, không có thức ăn/nước, dưới hướng dẫn trực tiếp của chuyên viên âm ngữ trị liệu.",
+      "technique": "Nếu được chỉ định, đặt đầu lưỡi nhẹ giữa hai răng và thực hiện động tác nuốt nước bọt theo hướng dẫn. Không tự thử khi chưa được đánh giá.",
+      "dose": "Chuyên viên quyết định số lần; không tự áp dụng liều chung.",
+      "safety": "Có thể không phù hợp với một số người bệnh và làm tăng nguy cơ tồn dư/sặc. Tuyệt đối không luyện với thức ăn/nước nếu chưa được chuyên viên cho phép.",
+      "common_errors": "Tự ý thực hiện thủ thuật khi chưa đánh giá nuốt; tập với thức ăn/nước không đúng chỉ định; tiếp tục khi ho sặc, giọng ướt hoặc khó thở."
+    },
+    {
+      "purpose": "Bài Shaker nhắm đến nhóm cơ hỗ trợ mở cơ thắt thực quản trên ở người bệnh được chọn lọc.",
+      "position": "Chỉ thực hiện sau đánh giá nuốt và đánh giá khả năng cổ; tư thế nằm ngửa trên mặt phẳng.",
+      "technique": "Theo hướng dẫn chuyên viên, nâng đầu để nhìn về phía bàn chân mà không nhấc vai; có thể có biến thể đẳng trường/động.",
+      "dose": "Liều phụ thuộc biến thể và năng lực; không dùng một công thức chung cho mọi người.",
+      "safety": "Tránh tự tập khi đau/cứng cổ, bệnh lý cột sống cổ, chóng mặt hoặc bệnh tim phổi chưa ổn định. Cần chuyên viên chỉ định.",
+      "common_errors": "Tự ý thực hiện thủ thuật khi chưa đánh giá nuốt; tập với thức ăn/nước không đúng chỉ định; tiếp tục khi ho sặc, giọng ướt hoặc khó thở."
+    },
+    {
+      "purpose": "Một số kỹ thuật đóng thanh môn được dùng trong phác đồ nuốt có mục tiêu cụ thể.",
+      "position": "Chỉ thực hiện khi chuyên viên âm ngữ trị liệu đánh giá và hướng dẫn trực tiếp.",
+      "technique": "Kỹ thuật nuốt giữ hơi/ho có trình tự riêng; cần được dạy và kiểm tra trước khi người bệnh tự luyện.",
+      "dose": "Theo phác đồ cá thể hóa; không tự tăng số lần.",
+      "safety": "Không tự áp dụng cho mọi người bệnh. Nếu ho sặc, khó thở hoặc giọng ướt sau nuốt, dừng và báo nhân viên y tế.",
+      "common_errors": "Tự ý thực hiện thủ thuật khi chưa đánh giá nuốt; tập với thức ăn/nước không đúng chỉ định; tiếp tục khi ho sặc, giọng ướt hoặc khó thở."
+    },
+    {
+      "purpose": "Chuẩn hóa độ đặc thức ăn và đồ uống để giảm nguy cơ khi ăn uống ở người rối loạn nuốt.",
+      "position": "Ngồi thẳng, có người giám sát; thực phẩm được chuẩn bị đúng mức IDDSI đã được chuyên viên chỉ định.",
+      "technique": "Thực hiện đúng mức độ đặc, kích thước miếng, dụng cụ và tư thế ăn được kê; ăn chậm, lượng nhỏ; kiểm tra tồn dư miệng.",
+      "dose": "Không có liều bài tập; lượng ăn và nhịp ăn theo đánh giá dinh dưỡng/nuốt.",
+      "safety": "Không tự đổi độ đặc hoặc thử nước loãng. Có dấu hiệu sặc, khó thở, tím tái hoặc sốt sau ăn cần được đánh giá y tế.",
+      "common_errors": "Tự ý thực hiện thủ thuật khi chưa đánh giá nuốt; tập với thức ăn/nước không đúng chỉ định; tiếp tục khi ho sặc, giọng ướt hoặc khó thở."
+    }
+  ],
+  "3. Rối loạn ngôn ngữ & Thất ngôn (Aphasia)": [
+    {
+      "purpose": "Kết nối âm thanh với nghĩa của từ, hỗ trợ hiểu ngôn ngữ.",
+      "position": "Ngồi nơi yên tĩnh; chuẩn bị vật thật hoặc tranh quen thuộc.",
+      "technique": "Nói một từ ngắn, yêu cầu người bệnh chỉ vào tranh/vật tương ứng; dùng lựa chọn ít trước, tăng dần khi thành công.",
+      "dose": "5–10 từ mỗi lượt, 5–10 phút; nghỉ khi mệt.",
+      "safety": "Không thúc ép hoặc sửa lỗi liên tục. Điều chỉnh theo khả năng nghe, nhìn và mức độ thất ngôn.",
+      "common_errors": "Nói quá nhanh; đưa quá nhiều yêu cầu cùng lúc; ngắt lời hoặc sửa lỗi liên tục; không cho người bệnh đủ thời gian phản hồi."
+    },
+    {
+      "purpose": "Luyện phối hợp khẩu hình và phát âm nguyên âm cơ bản.",
+      "position": "Ngồi trước gương, đầu cổ thoải mái.",
+      "technique": "Người hướng dẫn làm mẫu từng âm; người bệnh quan sát và bắt chước, phát âm chậm, rõ, có nghỉ.",
+      "dose": "Mỗi âm 3–5 lần; chia thành lượt ngắn.",
+      "safety": "Nếu người bệnh có rối loạn vận động lời nói, cần chuyên viên âm ngữ trị liệu chọn mục tiêu phù hợp.",
+      "common_errors": "Nói quá nhanh; đưa quá nhiều yêu cầu cùng lúc; ngắt lời hoặc sửa lỗi liên tục; không cho người bệnh đủ thời gian phản hồi."
+    },
+    {
+      "purpose": "Khôi phục khả năng gọi tên và truy xuất từ trong giao tiếp hằng ngày.",
+      "position": "Dùng thẻ hình ảnh/vật dụng quen thuộc, môi trường ít xao nhãng.",
+      "technique": "Cho xem một hình; chờ phản hồi; gợi ý bằng âm đầu, công dụng hoặc lựa chọn nếu cần; xác nhận nỗ lực giao tiếp.",
+      "dose": "5–10 hình mỗi lượt; tăng độ khó từ từ.",
+      "safety": "Không biến thành kiểm tra gây áp lực; chấp nhận chỉ tay, viết hoặc cử chỉ như phương thức giao tiếp.",
+      "common_errors": "Nói quá nhanh; đưa quá nhiều yêu cầu cùng lúc; ngắt lời hoặc sửa lỗi liên tục; không cho người bệnh đủ thời gian phản hồi."
+    },
+    {
+      "purpose": "Dùng nhịp điệu/giai điệu hỗ trợ tạo lời nói ở một số dạng thất ngôn không lưu loát.",
+      "position": "Chọn cụm từ có ý nghĩa với người bệnh; ngồi thoải mái, giảm tiếng ồn.",
+      "technique": "Chuyên viên làm mẫu cụm từ theo nhịp, cùng nói rồi giảm dần hỗ trợ; chuyển dần sang lời nói tự nhiên.",
+      "dose": "5–10 cụm ngắn mỗi buổi, theo đáp ứng.",
+      "safety": "MEL/MIT cần chuyên viên đánh giá tính phù hợp; không phải phương pháp chung cho mọi kiểu thất ngôn.",
+      "common_errors": "Nói quá nhanh; đưa quá nhiều yêu cầu cùng lúc; ngắt lời hoặc sửa lỗi liên tục; không cho người bệnh đủ thời gian phản hồi."
+    },
+    {
+      "purpose": "Hỗ trợ hoàn thành câu quen thuộc và tăng khả năng truy xuất từ.",
+      "position": "Chọn câu ngắn, quen thuộc, có ngữ cảnh rõ.",
+      "technique": "Người hướng dẫn nói câu và dừng trước từ đích; cho đủ thời gian phản hồi; dùng gợi ý khi cần.",
+      "dose": "5–10 câu mỗi lượt; dừng nếu mệt hoặc thất vọng.",
+      "safety": "Không dùng câu hỏi đánh đố; ưu tiên từ có giá trị giao tiếp với người bệnh.",
+      "common_errors": "Nói quá nhanh; đưa quá nhiều yêu cầu cùng lúc; ngắt lời hoặc sửa lỗi liên tục; không cho người bệnh đủ thời gian phản hồi."
+    },
+    {
+      "purpose": "Luyện trao đổi thông tin thiết yếu trong sinh hoạt và chăm sóc.",
+      "position": "Dùng tình huống thực tế, bảng từ hoặc tranh hỗ trợ.",
+      "technique": "Thực hành hỏi–đáp về ăn, uống, đau, vệ sinh; cho người bệnh lựa chọn cách trả lời bằng lời, chỉ tay hoặc bảng.",
+      "dose": "5–10 phút theo tình huống; lặp lại trong sinh hoạt hằng ngày.",
+      "safety": "Bảo đảm người bệnh có cách báo đau, khó thở, nhu cầu khẩn cấp; không giả định im lặng là đồng ý.",
+      "common_errors": "Nói quá nhanh; đưa quá nhiều yêu cầu cùng lúc; ngắt lời hoặc sửa lỗi liên tục; không cho người bệnh đủ thời gian phản hồi."
+    },
+    {
+      "purpose": "Duy trì khả năng giao tiếp khi lời nói hạn chế, tăng tính chủ động và an toàn.",
+      "position": "Chuẩn bị bảng ký hiệu, tranh hoặc thiết bị giao tiếp phù hợp tầm nhìn/vận động.",
+      "technique": "Dạy cách chỉ/chọn ký hiệu; đặt bảng trong tầm với; người chăm sóc xác nhận lại thông điệp.",
+      "dose": "Sử dụng xuyên suốt ngày; luyện 5–10 lựa chọn quen thuộc mỗi lượt.",
+      "safety": "Cá thể hóa theo thị lực, nhận thức, khả năng vận động tay và ngôn ngữ; không lấy bảng thay quyền biểu đạt của người bệnh.",
+      "common_errors": "Nói quá nhanh; đưa quá nhiều yêu cầu cùng lúc; ngắt lời hoặc sửa lỗi liên tục; không cho người bệnh đủ thời gian phản hồi."
+    }
+  ],
+  "4. Âm ngữ trị liệu (Rối loạn phát âm / Dysarthria)": [
+    {
+      "purpose": "Tối ưu phối hợp hơi thở với phát âm để câu nói rõ và ít hụt hơi hơn.",
+      "position": "Ngồi thẳng có tựa, vai thả lỏng; đặt tay lên bụng để cảm nhận chuyển động.",
+      "technique": "Hít vào nhẹ qua mũi, bụng nở tự nhiên; thở ra chậm và phát âm/đếm ngắn trong hơi thở thoải mái.",
+      "dose": "3–5 chu kỳ, nghỉ giữa lượt; không cố giữ hơi lâu.",
+      "safety": "Không thổi nến nếu có nguy cơ chóng mặt hoặc khó thở. Dừng khi choáng, đau ngực hoặc khó thở.",
+      "common_errors": "Nín thở; gắng giọng hoặc hét; kéo dài câu vượt khả năng; tăng tốc trước khi phát âm rõ."
+    },
+    {
+      "purpose": "Cải thiện khả năng điều phối hơi thở khi nói câu dài, trong giới hạn hô hấp an toàn.",
+      "position": "Ngồi thẳng, chọn câu ngắn phù hợp khả năng.",
+      "technique": "Hít vào tự nhiên; nói cụm từ ngắn trên một hơi; tăng độ dài từ từ khi chất lượng ổn định.",
+      "dose": "5–8 câu ngắn, nghỉ giữa lượt.",
+      "safety": "Không tập tăng sức cơ hô hấp bằng dụng cụ nếu chưa được đánh giá; bệnh hô hấp/tim mạch cần cá thể hóa.",
+      "common_errors": "Nín thở; gắng giọng hoặc hét; kéo dài câu vượt khả năng; tăng tốc trước khi phát âm rõ."
+    },
+    {
+      "purpose": "Tăng độ chính xác và linh hoạt của môi, lưỡi, hàm trong phát âm.",
+      "position": "Ngồi trước gương; cổ và hàm thả lỏng.",
+      "technique": "Thực hiện động tác môi/lưỡi/hàm theo mẫu chậm; chuyển sang âm tiết và từ có mục tiêu.",
+      "dose": "3–5 lần mỗi động tác; ưu tiên độ chính xác hơn số lượng.",
+      "safety": "Không kéo giãn hoặc ép hàm/lưỡi; dừng nếu đau khớp thái dương hàm hoặc mỏi nhiều.",
+      "common_errors": "Nín thở; gắng giọng hoặc hét; kéo dài câu vượt khả năng; tăng tốc trước khi phát âm rõ."
+    },
+    {
+      "purpose": "Tăng độ rõ của các âm mục tiêu và khả năng phối hợp phụ âm-nguyên âm.",
+      "position": "Chọn âm người bệnh khó phát âm nhất theo đánh giá.",
+      "technique": "Nghe mẫu, quan sát khẩu hình, phát âm âm đơn rồi âm tiết/từ/câu; giảm dần gợi ý.",
+      "dose": "5–10 lượt âm tiết ngắn; thay đổi khi chất lượng giảm.",
+      "safety": "Chọn mục tiêu theo đánh giá âm ngữ trị liệu; không luyện đồng loạt mọi âm nếu gây quá tải.",
+      "common_errors": "Nín thở; gắng giọng hoặc hét; kéo dài câu vượt khả năng; tăng tốc trước khi phát âm rõ."
+    },
+    {
+      "purpose": "Làm chậm tốc độ nói để tăng độ rõ và khả năng người nghe hiểu.",
+      "position": "Dùng đoạn ngắn hoặc câu giao tiếp quen thuộc.",
+      "technique": "Nói theo nhịp, ngắt giữa cụm từ; có thể dùng ngón tay/gõ nhịp; duy trì âm lượng thoải mái.",
+      "dose": "5–10 câu ngắn mỗi lượt.",
+      "safety": "Không làm lời nói quá chậm đến mức mất tự nhiên; ưu tiên dễ hiểu và ít gắng sức.",
+      "common_errors": "Nín thở; gắng giọng hoặc hét; kéo dài câu vượt khả năng; tăng tốc trước khi phát âm rõ."
+    },
+    {
+      "purpose": "Điều chỉnh âm lượng/cao độ phù hợp để lời nói nghe rõ mà không gắng sức.",
+      "position": "Ngồi thẳng, môi trường yên tĩnh; có thể dùng phản hồi từ người nghe.",
+      "technique": "Luyện nói ở âm lượng hội thoại; thay đổi cao độ nhẹ theo câu; tránh hét hoặc ép giọng.",
+      "dose": "3–5 phút mỗi lượt, có nghỉ.",
+      "safety": "Khàn tiếng/đau họng kéo dài cần đánh giá chuyên môn; không ép giọng lớn.",
+      "common_errors": "Nín thở; gắng giọng hoặc hét; kéo dài câu vượt khả năng; tăng tốc trước khi phát âm rõ."
+    },
+    {
+      "purpose": "Tích hợp hơi thở, khẩu hình, tốc độ và độ rõ vào lời nói liên tục.",
+      "position": "Chọn đoạn văn ngắn, chữ lớn, nội dung quen thuộc.",
+      "technique": "Đọc từng cụm; lấy hơi ở điểm ngắt; phát âm rõ âm cuối; ghi nhận từ người nghe về độ dễ hiểu.",
+      "dose": "Đọc 2–3 lượt ngắn; tăng độ dài khi không mệt.",
+      "safety": "Nếu đọc gây hụt hơi hoặc mệt, rút ngắn đoạn; mục tiêu là giao tiếp hiệu quả, không phải đọc nhanh.",
+      "common_errors": "Nín thở; gắng giọng hoặc hét; kéo dài câu vượt khả năng; tăng tốc trước khi phát âm rõ."
+    }
+  ],
+  "5. Trẻ tự kỷ (Rối loạn vận động & cảm giác)": [
+    {
+      "purpose": "Tạo trải nghiệm vận động tiền đình có kiểm soát, hỗ trợ điều hòa trạng thái và tham gia hoạt động.",
+      "position": "Chọn hoạt động trẻ chấp nhận; dụng cụ ổn định, có người lớn giám sát sát bên.",
+      "technique": "Bắt đầu với chuyển động chậm, biên độ nhỏ; quan sát phản ứng; cho trẻ quyền dừng/chọn hoạt động khác.",
+      "dose": "1–3 phút mỗi lượt, nghỉ và đánh giá đáp ứng; không đặt mục tiêu cố định cho mọi trẻ.",
+      "safety": "Không đung đưa mạnh hoặc nhún trên bóng khi chưa đánh giá nguy cơ. Dừng khi chóng mặt, buồn nôn, hoảng sợ hoặc mất ổn định.",
+      "common_errors": "Ép trẻ tiếp tục khi trẻ từ chối/quá tải; tăng kích thích đột ngột; dùng vật nhỏ hoặc dụng cụ không phù hợp mà thiếu giám sát."
+    },
+    {
+      "purpose": "Cung cấp đầu vào cảm giác bản thể thông qua hoạt động chủ động, an toàn và trẻ đồng thuận.",
+      "position": "Chọn hoạt động đẩy/kéo vật nhẹ, mang đồ phù hợp hoặc trò chơi vận động.",
+      "technique": "Để trẻ chủ động đẩy tường, kéo hộp nhẹ hoặc cuộn chăn theo lựa chọn; tránh ép, ghì hoặc tạo áp lực lên khớp.",
+      "dose": "3–5 phút hoạt động, xen kẽ nghỉ; theo sở thích và phản ứng của trẻ.",
+      "safety": "Không dùng ôm chặt, ép khớp sâu hoặc chèn ép cơ thể như biện pháp bắt buộc. Tôn trọng tín hiệu từ chối.",
+      "common_errors": "Ép trẻ tiếp tục khi trẻ từ chối/quá tải; tăng kích thích đột ngột; dùng vật nhỏ hoặc dụng cụ không phù hợp mà thiếu giám sát."
+    },
+    {
+      "purpose": "Rèn thăng bằng động và phối hợp vận động thô qua nhiệm vụ có độ khó tăng dần.",
+      "position": "Bắt đầu trên sàn phẳng/vạch đi; chỉ dùng ván thấp, rộng, chống trượt khi có giám sát.",
+      "technique": "Đi theo vạch, bước qua vật thấp hoặc đứng chuyển trọng lượng; hỗ trợ tay nếu cần. Chỉ tăng độ khó khi an toàn.",
+      "dose": "3–5 lượt ngắn, nghỉ giữa lượt.",
+      "safety": "Không dùng ván cao/hẹp hoặc bề mặt không ổn định khi trẻ chưa đủ khả năng; phòng té ngã.",
+      "common_errors": "Ép trẻ tiếp tục khi trẻ từ chối/quá tải; tăng kích thích đột ngột; dùng vật nhỏ hoặc dụng cụ không phù hợp mà thiếu giám sát."
+    },
+    {
+      "purpose": "Duy trì độ linh hoạt cổ chân và hỗ trợ kiểm soát dáng đi khi có co rút hoặc hạn chế gấp mu chân.",
+      "position": "Ngồi hoặc nằm, gối được đỡ; cổ chân ở vị trí trung tính.",
+      "technique": "Kéo giãn nhẹ cơ bắp chân theo hướng dẫn; giữ gót ổn định, không bật nảy và không gây đau.",
+      "dose": "Giữ 15–20 giây, 2–3 lượt nếu được đánh giá phù hợp.",
+      "safety": "Dáng đi nhón gót có nhiều nguyên nhân; cần đánh giá cơ-xương-khớp/thần kinh. Không ép kéo khi đau hoặc kháng cự.",
+      "common_errors": "Ép trẻ tiếp tục khi trẻ từ chối/quá tải; tăng kích thích đột ngột; dùng vật nhỏ hoặc dụng cụ không phù hợp mà thiếu giám sát."
+    },
+    {
+      "purpose": "Phát triển phối hợp ngón tay, thao tác hai tay và kỹ năng sử dụng đồ vật.",
+      "position": "Ngồi bàn phù hợp chiều cao; dùng vật liệu kích thước an toàn theo tuổi.",
+      "technique": "Nhặt, thả, xếp, luồn vật lớn trước rồi tăng độ tinh; hướng dẫn bằng mẫu và hỗ trợ vừa đủ.",
+      "dose": "5–10 phút, chia lượt ngắn; điều chỉnh theo chú ý và khả năng.",
+      "safety": "Tránh hạt nhỏ với trẻ có nguy cơ đưa vật vào miệng; giám sát liên tục.",
+      "common_errors": "Ép trẻ tiếp tục khi trẻ từ chối/quá tải; tăng kích thích đột ngột; dùng vật nhỏ hoặc dụng cụ không phù hợp mà thiếu giám sát."
+    },
+    {
+      "purpose": "Tăng phối hợp mắt-tay, chú ý chung và làm theo chỉ dẫn đơn giản.",
+      "position": "Không gian ít xao nhãng; đồ chơi trẻ yêu thích.",
+      "technique": "Lăn bóng, ném vào rổ lớn, ghép hình theo lượt; dùng chỉ dẫn ngắn và hình ảnh nếu cần.",
+      "dose": "5–10 lượt mỗi trò, luân phiên nghỉ.",
+      "safety": "Không ép giao tiếp mắt; điều chỉnh âm thanh/ánh sáng theo nhạy cảm cảm giác.",
+      "common_errors": "Ép trẻ tiếp tục khi trẻ từ chối/quá tải; tăng kích thích đột ngột; dùng vật nhỏ hoặc dụng cụ không phù hợp mà thiếu giám sát."
+    },
+    {
+      "purpose": "Hỗ trợ bắt chước vận động, lập kế hoạch vận động và tham gia tương tác.",
+      "position": "Chọn tư thế đơn giản đứng/ngồi; người hướng dẫn ở trước mặt hoặc bên cạnh.",
+      "technique": "Làm mẫu một động tác dễ (giơ tay, vỗ tay, chạm vai); chờ trẻ phản hồi; khen nỗ lực và giảm gợi ý dần.",
+      "dose": "3–5 động tác, mỗi động tác vài lượt; dừng khi trẻ quá tải.",
+      "safety": "Không dùng cưỡng ép thể chất. Cho trẻ lựa chọn, nghỉ và từ chối; điều chỉnh theo khả năng cảm giác-vận động.",
+      "common_errors": "Ép trẻ tiếp tục khi trẻ từ chối/quá tải; tăng kích thích đột ngột; dùng vật nhỏ hoặc dụng cụ không phù hợp mà thiếu giám sát."
+    }
+  ],
+  "6. Xơ hóa cơ ức đòn chũm (Vẹo cổ bẩm sinh)": [
+    {
+      "purpose": "Tăng dần độ dài cơ ức đòn chũm bị hạn chế, cải thiện cân bằng tư thế đầu-cổ.",
+      "position": "Trẻ nằm ngửa trên mặt phẳng an toàn; đầu và thân được đỡ chắc bởi người đã được hướng dẫn.",
+      "technique": "Kỹ thuật kết hợp nghiêng đầu về bên đối diện và xoay mặt về bên bị hạn chế, thực hiện rất nhẹ trong tầm cho phép; giữ đầu không bị rơi ngửa.",
+      "dose": "Chỉ theo số lần/thời gian do KTV nhi hướng dẫn; thường chia nhiều lượt ngắn trong ngày.",
+      "safety": "Không tự kéo mạnh cổ trẻ. Dừng nếu trẻ đau, khóc bất thường, đổi màu, khó thở hoặc có dấu hiệu khó chịu rõ.",
+      "common_errors": "Kéo/bẻ cổ mạnh; để đầu trẻ không được nâng đỡ; ép trẻ đạt tầm vận động; dùng gối hoặc vật chèn không an toàn khi ngủ."
+    },
+    {
+      "purpose": "Khuyến khích trẻ chủ động xoay đầu về phía hạn chế thông qua kích thích thị giác/thính giác.",
+      "position": "Đặt trẻ nằm ngửa hoặc ngồi có nâng đỡ phù hợp tuổi; đồ chơi ở tầm nhìn.",
+      "technique": "Đưa đồ chơi từ từ về phía cần khuyến khích; chờ trẻ tự quay đầu; đổi vị trí kích thích, không xoay đầu thay trẻ.",
+      "dose": "3–5 lần mỗi hướng trong các khoảng chơi ngắn.",
+      "safety": "Không để trẻ ở tư thế gây khó chịu; tránh đồ chơi quá gần mặt hoặc âm thanh quá lớn.",
+      "common_errors": "Kéo/bẻ cổ mạnh; để đầu trẻ không được nâng đỡ; ép trẻ đạt tầm vận động; dùng gối hoặc vật chèn không an toàn khi ngủ."
+    },
+    {
+      "purpose": "Tối ưu tư thế khi ngủ/nghỉ và sinh hoạt, giảm xu hướng duy trì tư thế đầu lệch.",
+      "position": "Nằm ngửa trên mặt phẳng ngủ an toàn, bề mặt chắc và phẳng.",
+      "technique": "Đổi hướng tiếp cận của người chăm sóc/đồ chơi khi trẻ thức; luân phiên bế và cho bú hai bên theo hướng dẫn.",
+      "dose": "Áp dụng trong sinh hoạt hằng ngày, không phải bài tập có số lần.",
+      "safety": "Không dùng gối định hình, gối cát hoặc vật chèn trong chỗ ngủ của trẻ nếu không có chỉ định chuyên môn; tuân thủ khuyến cáo ngủ an toàn.",
+      "common_errors": "Kéo/bẻ cổ mạnh; để đầu trẻ không được nâng đỡ; ép trẻ đạt tầm vận động; dùng gối hoặc vật chèn không an toàn khi ngủ."
+    },
+    {
+      "purpose": "Hỗ trợ thư giãn mô mềm và tăng nhận biết vùng cổ trong chương trình trị liệu.",
+      "position": "Trẻ ở tư thế thoải mái, đầu-cổ được nâng đỡ; chỉ KTV/người chăm sóc đã được hướng dẫn thực hiện.",
+      "technique": "Tiếp xúc nhẹ vùng cơ theo hướng dẫn; không day ấn sâu vào khối cơ, mạch máu hoặc vùng trước cổ.",
+      "dose": "Thời lượng ngắn theo dung nạp; không có liều chung.",
+      "safety": "Xoa bóp không làm tan khối xơ một cách chắc chắn. Tránh ấn mạnh, bẻ cổ hoặc gây đau; cần đánh giá nếu khối tăng kích thước.",
+      "common_errors": "Kéo/bẻ cổ mạnh; để đầu trẻ không được nâng đỡ; ép trẻ đạt tầm vận động; dùng gối hoặc vật chèn không an toàn khi ngủ."
+    },
+    {
+      "purpose": "Tăng chủ động xoay/nghiêng cổ qua hoạt động vui chơi phù hợp lứa tuổi.",
+      "position": "Trẻ ngồi có hỗ trợ hoặc nằm chơi an toàn.",
+      "technique": "Dùng đồ chơi đặt ở các hướng; khuyến khích trẻ tự nhìn/quay đầu; tăng dần khoảng quay theo khả năng.",
+      "dose": "3–5 lượt mỗi hướng, nhiều lần chơi ngắn.",
+      "safety": "Không giữ cố định đầu để ép đạt tầm; dừng khi trẻ mệt hoặc khó chịu.",
+      "common_errors": "Kéo/bẻ cổ mạnh; để đầu trẻ không được nâng đỡ; ép trẻ đạt tầm vận động; dùng gối hoặc vật chèn không an toàn khi ngủ."
+    },
+    {
+      "purpose": "Tăng khả năng kiểm soát đầu-cổ và cân bằng hoạt động cơ hai bên.",
+      "position": "Chỉ áp dụng sau lượng giá cơ cổ và kiểm soát đầu; trẻ được đỡ thân chắc chắn.",
+      "technique": "Dùng hoạt động chống trọng lực nhẹ theo hướng dẫn; khuyến khích giữ đầu ở đường giữa, không đặt kháng lực trực tiếp mạnh lên cổ trẻ.",
+      "dose": "Lượt ngắn 3–5 lần, nghỉ thường xuyên.",
+      "safety": "Không tự tập kháng lực cổ cho trẻ nhỏ. KTV nhi quyết định bài tập phù hợp độ tuổi và mức kiểm soát đầu.",
+      "common_errors": "Kéo/bẻ cổ mạnh; để đầu trẻ không được nâng đỡ; ép trẻ đạt tầm vận động; dùng gối hoặc vật chèn không an toàn khi ngủ."
+    },
+    {
+      "purpose": "Giúp gia đình tích hợp tư thế điều chỉnh vào bế, bú, chơi và chăm sóc thường ngày.",
+      "position": "Người chăm sóc được KTV hướng dẫn trực tiếp.",
+      "technique": "Luân phiên bên bế/cho bú; bố trí đồ chơi để trẻ chủ động quay về phía hạn chế; thay đổi tư thế bế, không ép cổ.",
+      "dose": "Tích hợp trong sinh hoạt; kiểm tra lại kỹ thuật định kỳ.",
+      "safety": "Không dùng tư thế gây cản trở thở/nuốt. Nếu trẻ có bất đối xứng tăng, chậm phát triển hoặc đau cần tái đánh giá.",
+      "common_errors": "Kéo/bẻ cổ mạnh; để đầu trẻ không được nâng đỡ; ép trẻ đạt tầm vận động; dùng gối hoặc vật chèn không an toàn khi ngủ."
+    }
+  ],
+  "7. PHCN sau Phẫu thuật đầu gối (Tái tạo ACL)": [
+    {
+      "purpose": "Duy trì hoạt hóa cơ tứ đầu đùi, hỗ trợ kiểm soát gối và hạn chế ức chế cơ sau mổ.",
+      "position": "Nằm ngửa, chân mổ duỗi thoải mái; có thể kê khăn nhỏ dưới gối nếu được hướng dẫn.",
+      "technique": "Siết cơ mặt trước đùi để ép nhẹ mặt sau gối xuống giường; giữ rồi thả lỏng, không nín thở.",
+      "dose": "Giữ 5 giây, 8–10 lần mỗi lượt nếu được cho phép; chia nhiều lượt ngắn.",
+      "safety": "Theo phác đồ phẫu thuật viên; dừng nếu đau tăng rõ hoặc sưng tăng. Không cố ép gối khi có hạn chế.",
+      "common_errors": "Ép gấp/duỗi vượt phác đồ; tăng tải quá nhanh; để gối đổ vào trong hoặc thân nghiêng bù; bỏ qua sưng đau sau tập."
+    },
+    {
+      "purpose": "Khôi phục duỗi gối và tăng dần gấp gối trong giới hạn được cho phép.",
+      "position": "Nằm ngửa; gót được đỡ để duỗi gối hoặc trượt gót trên mặt phẳng.",
+      "technique": "Thực hiện duỗi nhẹ về trung tính; gấp gối bằng trượt gót trong tầm cho phép, không ép cuối tầm.",
+      "dose": "5–10 lần chậm, giữ ngắn theo dung nạp; theo mục tiêu ROM của phác đồ.",
+      "safety": "Giới hạn ROM tùy kỹ thuật mổ và tổn thương phối hợp. Không mặc định mọi người bệnh được gấp/duỗi tối đa.",
+      "common_errors": "Ép gấp/duỗi vượt phác đồ; tăng tải quá nhanh; để gối đổ vào trong hoặc thân nghiêng bù; bỏ qua sưng đau sau tập."
+    },
+    {
+      "purpose": "Tăng kiểm soát cơ tứ đầu và khả năng nâng chi khi không còn hiện tượng trễ duỗi.",
+      "position": "Nằm ngửa, chân lành co gối; chân mổ duỗi thẳng.",
+      "technique": "Siết cơ đùi trước, giữ gối thẳng rồi nâng chân thấp khỏi mặt giường; hạ chậm. Chỉ làm nếu không bị trễ duỗi.",
+      "dose": "5–10 lần, 1–2 hiệp khi được phép; tăng theo chất lượng.",
+      "safety": "Không tập nếu gối bị trễ duỗi hoặc đau/sưng tăng. Tuân thủ giới hạn chịu lực và nẹp sau mổ.",
+      "common_errors": "Ép gấp/duỗi vượt phác đồ; tăng tải quá nhanh; để gối đổ vào trong hoặc thân nghiêng bù; bỏ qua sưng đau sau tập."
+    },
+    {
+      "purpose": "Tăng vận động lặp lại và sức bền chi dưới khi ROM, kiểm soát và giai đoạn hồi phục cho phép.",
+      "position": "Xe đạp tại chỗ, yên chỉnh cao; ban đầu không kháng lực.",
+      "technique": "Chỉ bắt đầu khi đủ gấp gối và được phẫu thuật viên/KTV cho phép; quay bàn đạp nhẹ, không cố vòng quay nếu đau.",
+      "dose": "Bắt đầu 5 phút nhẹ; tăng thời gian từ từ theo dung nạp.",
+      "safety": "Không tự dùng mốc 90 độ như điều kiện duy nhất; phụ thuộc phác đồ, sưng đau và kỹ thuật mổ.",
+      "common_errors": "Ép gấp/duỗi vượt phác đồ; tăng tải quá nhanh; để gối đổ vào trong hoặc thân nghiêng bù; bỏ qua sưng đau sau tập."
+    },
+    {
+      "purpose": "Khôi phục khả năng chịu lực và kiểm soát gối trong tư thế đứng.",
+      "position": "Đứng giữa hai thanh song song hoặc cạnh điểm tựa chắc; có người giám sát.",
+      "technique": "Chuyển trọng lượng nhẹ hai chân, giữ gối hướng theo ngón chân thứ hai; tăng dần tải lên chân mổ theo chỉ định.",
+      "dose": "5–10 lần chuyển tải; thời lượng ngắn.",
+      "safety": "Chỉ chịu lực theo chỉ định. Không tập nếu chưa rõ mức chịu lực hoặc có tổn thương sụn chêm/sụn khớp kèm theo.",
+      "common_errors": "Ép gấp/duỗi vượt phác đồ; tăng tải quá nhanh; để gối đổ vào trong hoặc thân nghiêng bù; bỏ qua sưng đau sau tập."
+    },
+    {
+      "purpose": "Rèn cảm nhận vị trí khớp và phản ứng giữ thăng bằng.",
+      "position": "Bắt đầu đứng hai chân trên sàn phẳng, cạnh điểm tựa; chỉ tiến tới bề mặt mềm khi đủ an toàn.",
+      "technique": "Giữ thăng bằng, chuyển trọng lượng nhỏ hoặc chạm chân theo mục tiêu; tăng độ khó từng bước.",
+      "dose": "3–5 lượt 20–30 giây tùy dung nạp.",
+      "safety": "Không bắt đầu trên đĩa thăng bằng khi kiểm soát gối kém. Cần bảo vệ chống ngã và tuân thủ giai đoạn phục hồi.",
+      "common_errors": "Ép gấp/duỗi vượt phác đồ; tăng tải quá nhanh; để gối đổ vào trong hoặc thân nghiêng bù; bỏ qua sưng đau sau tập."
+    },
+    {
+      "purpose": "Tăng sức mạnh chuỗi cơ sau và cẳng chân để hỗ trợ kiểm soát chi dưới.",
+      "position": "Chọn tư thế nằm/ngồi/đứng ổn định; dây kháng lực nhẹ khi được cho phép.",
+      "technique": "Thực hiện gấp gối, nâng gót hoặc động tác kháng lực theo kỹ thuật KTV; tăng tải từ từ, giữ trục gối.",
+      "dose": "1–2 hiệp, 8–12 lần ở giai đoạn phù hợp; điều chỉnh theo phác đồ.",
+      "safety": "Nếu lấy gân hamstring làm mảnh ghép, bài tập gân kheo có thể bị hạn chế giai đoạn đầu. Phải xác nhận loại mảnh ghép và chỉ định.",
+      "common_errors": "Ép gấp/duỗi vượt phác đồ; tăng tải quá nhanh; để gối đổ vào trong hoặc thân nghiêng bù; bỏ qua sưng đau sau tập."
+    }
+  ],
+  "8. PHCN sau Phẫu thuật thay khớp háng toàn phần": [
+    {
+      "purpose": "Khuyến khích bơm cơ bắp chân, hỗ trợ tuần hoàn tĩnh mạch khi ít vận động.",
+      "position": "Nằm hoặc ngồi, chân được nâng đỡ thoải mái.",
+      "technique": "Gập cổ chân hướng mũi chân về phía người rồi duỗi ra xa; chuyển động đều, không xoay cả chân.",
+      "dose": "10–20 lần mỗi lượt khi thức nếu được hướng dẫn; chia nhiều lượt.",
+      "safety": "Không thay thế thuốc/phương tiện dự phòng huyết khối. Đau/sưng bắp chân một bên, khó thở hoặc đau ngực cần đánh giá y tế khẩn.",
+      "common_errors": "Không tuân thủ hạn chế theo đường mổ; xoay/khép/gập háng vượt giới hạn được dặn; đứng lên bằng cách kéo khung tập đi."
+    },
+    {
+      "purpose": "Duy trì hoạt hóa cơ mông và cơ tứ đầu, hỗ trợ kiểm soát chi dưới.",
+      "position": "Nằm ngửa, chân ở tư thế được phẫu thuật viên cho phép.",
+      "technique": "Siết nhẹ cơ mông; siết cơ đùi trước để duỗi gối; giữ ngắn rồi thả, không nín thở.",
+      "dose": "Giữ 3–5 giây, 8–10 lần mỗi nhóm cơ nếu dung nạp.",
+      "safety": "Tránh co cơ gây đau vùng mổ; không tự thêm kháng lực khi chưa được phép.",
+      "common_errors": "Không tuân thủ hạn chế theo đường mổ; xoay/khép/gập háng vượt giới hạn được dặn; đứng lên bằng cách kéo khung tập đi."
+    },
+    {
+      "purpose": "Tăng dần gấp háng và vận động chi dưới trong giới hạn sau mổ.",
+      "position": "Nằm ngửa, chân duỗi; mặt giường trơn hoặc dùng khăn hỗ trợ.",
+      "technique": "Trượt gót về phía mông rồi đưa về; giữ gối và háng theo trục, không kéo vượt giới hạn được dặn.",
+      "dose": "5–10 lần chậm, theo tầm vận động được phép.",
+      "safety": "Không mặc định giới hạn gấp háng dưới 90 độ áp dụng cho mọi ca; tuân thủ đường mổ và hướng dẫn phẫu thuật viên.",
+      "common_errors": "Không tuân thủ hạn chế theo đường mổ; xoay/khép/gập háng vượt giới hạn được dặn; đứng lên bằng cách kéo khung tập đi."
+    },
+    {
+      "purpose": "Khôi phục vận động dạng háng và kiểm soát cơ vùng chậu.",
+      "position": "Nằm ngửa, hai chân song song; có thể dùng mặt trượt.",
+      "technique": "Trượt chân mổ sang bên rồi đưa về giữa, giữ mũi chân hướng lên; không vượt đường giữa nếu có hạn chế.",
+      "dose": "5–10 lần trong tầm cho phép.",
+      "safety": "Tuân thủ các hạn chế khép/xoay theo đường mổ và phác đồ. Dừng nếu đau vùng háng tăng.",
+      "common_errors": "Không tuân thủ hạn chế theo đường mổ; xoay/khép/gập háng vượt giới hạn được dặn; đứng lên bằng cách kéo khung tập đi."
+    },
+    {
+      "purpose": "Luyện chuyển tư thế ngồi-đứng an toàn, tăng độc lập trong sinh hoạt.",
+      "position": "Ghế chắc, cao phù hợp, có tay vịn; khung tập đi đặt sẵn.",
+      "technique": "Trượt người ra mép ghế, đặt chân theo hướng dẫn, đẩy tay từ tay vịn để đứng; không kéo khung tập đi để đứng lên.",
+      "dose": "3–5 lần có giám sát; tăng theo sức và an toàn.",
+      "safety": "Tuân thủ hạn chế chịu lực và tư thế háng. Không tập khi chóng mặt hoặc huyết áp tư thế không ổn định.",
+      "common_errors": "Không tuân thủ hạn chế theo đường mổ; xoay/khép/gập háng vượt giới hạn được dặn; đứng lên bằng cách kéo khung tập đi."
+    },
+    {
+      "purpose": "Tái giáo dục dáng đi, phân phối tải và bước chân có kiểm soát.",
+      "position": "Khung tập đi/nạng đúng chiều cao; giày chống trượt; có người giám sát.",
+      "technique": "Đưa dụng cụ tiến trước, bước chân mổ theo mức chịu lực cho phép, sau đó chân lành; giữ thân thẳng và bước đều.",
+      "dose": "Quãng ngắn, nhiều lượt; tăng quãng theo chất lượng và dung nạp.",
+      "safety": "Không yêu cầu dồn lực đều nếu được chỉ định chịu lực một phần/không chịu lực. Kiểm tra chóng mặt và nguy cơ ngã.",
+      "common_errors": "Không tuân thủ hạn chế theo đường mổ; xoay/khép/gập háng vượt giới hạn được dặn; đứng lên bằng cách kéo khung tập đi."
+    },
+    {
+      "purpose": "Luyện lên xuống bậc thang an toàn khi người bệnh đủ sức và đã được hướng dẫn.",
+      "position": "Có tay vịn, dùng nạng nếu được chỉ định; KTV đứng bảo vệ.",
+      "technique": "Nguyên tắc thường dùng: lên bằng chân lành trước, xuống bằng chân mổ và dụng cụ trước; thực hành từng bậc.",
+      "dose": "Bắt đầu 1–2 bậc có giám sát; tăng khi ổn định.",
+      "safety": "Chỉ tập khi đã được cho phép và có kỹ thuật phù hợp dụng cụ. Quy tắc có thể thay đổi theo mức chịu lực và khả năng cá nhân.",
+      "common_errors": "Không tuân thủ hạn chế theo đường mổ; xoay/khép/gập háng vượt giới hạn được dặn; đứng lên bằng cách kéo khung tập đi."
+    }
+  ],
+  "9. PHCN sau Gãy tay / Gãy chân (Hậu phẫu / Bó bột)": [
+    {
+      "purpose": "Duy trì hoạt hóa cơ trong thời gian bất động, hạn chế suy giảm sức cơ.",
+      "position": "Chi được cố định đúng tư thế; chỉ co cơ ở nhóm được phép, không làm di lệch vùng gãy.",
+      "technique": "Siết cơ nhẹ ở vùng được hướng dẫn mà không tạo chuyển động tại ổ gãy; giữ ngắn rồi thả.",
+      "dose": "Giữ 3–5 giây, 5–10 lần nếu được cho phép.",
+      "safety": "Chỉ tập khi bác sĩ xác nhận an toàn. Không co mạnh gây đau hoặc làm di động ổ gãy; không tập xuyên qua đau tăng.",
+      "common_errors": "Chịu lực hoặc kháng lực vượt chỉ định; tác động trực tiếp lên ổ gãy; tập xuyên đau/sưng tăng; cho rằng tháo bột đồng nghĩa xương đã chịu tải hoàn toàn."
+    },
+    {
+      "purpose": "Duy trì vận động các khớp không bị bất động, hỗ trợ tuần hoàn và giảm cứng khớp.",
+      "position": "Ngồi/nằm, chi bó bột được nâng đỡ; để lộ khớp tự do.",
+      "technique": "Cử động nhẹ ngón tay/ngón chân và khớp không bị cố định qua tầm thoải mái; không tác động vào vùng gãy.",
+      "dose": "10 lần mỗi khớp tự do, vài lượt trong ngày nếu được hướng dẫn.",
+      "safety": "Theo dõi sưng, đổi màu, tê, lạnh, đau tăng hoặc bó bột chật; cần liên hệ cơ sở y tế nếu xuất hiện.",
+      "common_errors": "Chịu lực hoặc kháng lực vượt chỉ định; tác động trực tiếp lên ổ gãy; tập xuyên đau/sưng tăng; cho rằng tháo bột đồng nghĩa xương đã chịu tải hoàn toàn."
+    },
+    {
+      "purpose": "Khôi phục tầm vận động sau tháo bột khi xương và mô mềm cho phép.",
+      "position": "Tư thế nâng đỡ chi, khớp ở vị trí thoải mái.",
+      "technique": "Bắt đầu vận động chủ động trong tầm không đau; KTV có thể hỗ trợ nhẹ nếu được phép; tăng dần, không ép cuối tầm.",
+      "dose": "5–10 lần mỗi hướng, 1–2 lượt; điều chỉnh theo sưng đau và chỉ định.",
+      "safety": "Tháo bột không đồng nghĩa xương đã chịu tải hoàn toàn. Xác nhận liền xương và mức vận động/ chịu lực trước khi tập.",
+      "common_errors": "Chịu lực hoặc kháng lực vượt chỉ định; tác động trực tiếp lên ổ gãy; tập xuyên đau/sưng tăng; cho rằng tháo bột đồng nghĩa xương đã chịu tải hoàn toàn."
+    },
+    {
+      "purpose": "Hỗ trợ di động mô sẹo và giảm dính mô mềm sau khi vết thương đã lành hoàn toàn.",
+      "position": "Vùng sẹo sạch, khô, liền kín; người bệnh ở tư thế thư giãn.",
+      "technique": "Chỉ khi vết thương đã đóng kín và được phép, dùng đầu ngón tay di động da nhẹ quanh/sát sẹo; không kéo rách mô.",
+      "dose": "1–2 phút vùng nhỏ, lực nhẹ; dừng nếu kích ứng.",
+      "safety": "Không xoa bóp lên vết thương hở, nhiễm trùng, đóng mài chưa ổn định hoặc vùng giảm cảm giác. Không ấn sâu lên ổ gãy.",
+      "common_errors": "Chịu lực hoặc kháng lực vượt chỉ định; tác động trực tiếp lên ổ gãy; tập xuyên đau/sưng tăng; cho rằng tháo bột đồng nghĩa xương đã chịu tải hoàn toàn."
+    },
+    {
+      "purpose": "Tăng sức cơ và khả năng chịu tải theo tiến trình liền xương.",
+      "position": "Chọn tư thế ổn định; dụng cụ kháng lực rất nhẹ hoặc trọng lượng cơ thể.",
+      "technique": "Bắt đầu không kháng lực/kháng lực thấp; thực hiện chậm, đúng trục; tăng từng bước khi không đau/sưng tăng.",
+      "dose": "1 hiệp 8–10 lần ban đầu; chỉ tăng tải theo đánh giá KTV/bác sĩ.",
+      "safety": "Không dùng tạ/dây kháng lực trước khi được cho phép chịu tải. Mức tải phụ thuộc vị trí gãy, cố định và hình ảnh liền xương.",
+      "common_errors": "Chịu lực hoặc kháng lực vượt chỉ định; tác động trực tiếp lên ổ gãy; tập xuyên đau/sưng tăng; cho rằng tháo bột đồng nghĩa xương đã chịu tải hoàn toàn."
+    },
+    {
+      "purpose": "Khôi phục kỹ năng đi lại hoặc thao tác bàn tay phù hợp vị trí gãy.",
+      "position": "Gãy chân: dụng cụ trợ đi đúng loại. Gãy tay: bàn/đồ vật nhẹ, an toàn.",
+      "technique": "Gãy chân: luyện chuyển trọng lượng và bước theo mức chịu lực. Gãy tay: luyện nắm-thả vật nhẹ, phối hợp ngón.",
+      "dose": "Các lượt ngắn 3–5 phút; tăng dần theo chất lượng.",
+      "safety": "Không tập chịu lực vượt chỉ định. Với bàn tay, tránh vật nặng hoặc động tác gây đau vùng gãy.",
+      "common_errors": "Chịu lực hoặc kháng lực vượt chỉ định; tác động trực tiếp lên ổ gãy; tập xuyên đau/sưng tăng; cho rằng tháo bột đồng nghĩa xương đã chịu tải hoàn toàn."
+    },
+    {
+      "purpose": "Tăng độc lập trong sinh hoạt hằng ngày bằng cách thích ứng hoạt động và môi trường.",
+      "position": "Chọn nhiệm vụ thật như mặc áo, vệ sinh, cầm cốc hoặc di chuyển trong nhà.",
+      "technique": "Chia nhiệm vụ thành bước nhỏ; dùng tay lành/dụng cụ hỗ trợ khi cần; tập cách an toàn trước khi tăng tốc độ.",
+      "dose": "5–10 phút mỗi nhiệm vụ; lặp lại trong sinh hoạt.",
+      "safety": "Bảo đảm chống ngã, không làm quá giới hạn vận động/chịu lực; cần hỗ trợ khi người bệnh chưa an toàn.",
+      "common_errors": "Chịu lực hoặc kháng lực vượt chỉ định; tác động trực tiếp lên ổ gãy; tập xuyên đau/sưng tăng; cho rằng tháo bột đồng nghĩa xương đã chịu tải hoàn toàn."
+    }
+  ]
+}
